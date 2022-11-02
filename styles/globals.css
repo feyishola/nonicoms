@@ -1,0 +1,190 @@
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+.navbar-custom.navbar-white {
+  background-color: #ffffff !important;
+  padding: 10px 0;
+  box-shadow: 0 10px 33px rgb(0 0 0 / 10%);
+}
+
+.navbar-custom {
+  padding: 20px 0px;
+  width: 100%;
+  border-radius: 0px;
+  z-index: 999;
+  margin-bottom: 0px;
+  transition: all 0.5s ease-in-out;
+}
+.navbar-custom .navbar-nav {
+    margin-left: 50px;
+}
+
+::selection {
+  background-color: #272a33;
+  color: #ffffff;
+}
+/* Home section */
+.section {
+  background-image: url("../assets/Home.jpg"), linear-gradient(#01bd2ace,rgba(72, 255, 0, 0.603));
+  background-blend-mode: overlay;
+  height: 100vh;
+}
+
+.bg-light {
+  background-color: #fafbfe !important;
+}
+
+.section-sm {
+  padding: 50px 0;
+}
+
+.section2 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+}
+
+.features-box h3 {
+  margin-bottom: 25px;
+  margin-top: 0;
+  line-height: 36px;
+}
+.h3, h3 {
+  font-size: 24px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 600;
+}
+.text-muted {
+  color: #858d96 !important;
+}
+.features-box .features-item-list li {
+  position: relative;
+  line-height: 24px;
+  font-size: 15px;
+  padding: 7px 0 7px 20px;
+}
+
+.btn-primary, .play-btn, .account-card .form-check-input:checked {
+  border-color: #59CD90 !important;
+}
+.section-title-border, .bg-primary, .btn-primary, .features-item-list li:before, .process-left-icon-1 i, .process-left-icon-2 i, .account-card .form-check-input:checked {
+  background-color: #59CD90 !important;
+}
+.btn-primary {
+  background: #4341cc;
+  border-color: #4341cc !important;
+}
+.btn {
+  padding: 10px 22px;
+  font-size: 14px;
+  transition: all 0.5s;
+}
+.btn, .btn:focus, button, button:focus {
+  outline: none !important;
+}
+.mt-4 {
+  margin-top: 1.5rem!important;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+.features-img {
+  max-width: 500px;
+  margin: 0 0 0 auto;
+}
+
+.section-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  padding-bottom: 1rem;
+  line-height: 1;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.section-title-border, .bg-primary, .btn-primary, .features-item-list li:before, .process-left-icon-1 i, .process-left-icon-2 i, .account-card .form-check-input:checked {
+  background-color: #f85f89 !important;
+}
+.section-title-border{
+
+}
+
+.bg-web-desc {
+  background-image: url("https://themesbrand.com/hiric/layout/images/img-1.jpg"), linear-gradient(#01bd2ace,rgba(72, 255, 0, 0.603));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.home-desc {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 15px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.btn-white {
+  background: #ffffff;
+  border-color: #ffffff !important;
+}
+.btn {
+  padding: 10px 22px;
+  font-size: 14px;
+  transition: all 0.5s;
+}
+.btn, .btn:focus, button, button:focus {
+  outline: none !important;
+}
+.section2 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+}
+
+.pricing-box {
+  padding: 50px 40px 50px 40px;
+  border: 1px solid #ecf0f5;
+  border-radius: 8px;
+  box-shadow: 0 0 1.25rem rgb(108 118 134 / 10%) !important;
+  background-color: #ffffff;
+  position: relative;
+}
+
+.plan-features p {
+  padding-top: 5px;
+}
+p {
+  font-size: 14.4px;
+  line-height: 24px;
+}
+.team-box {
+    border-bottom: 1px solid #ecf0f5;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: #ffffff;
+  }
+} */

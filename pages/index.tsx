@@ -174,7 +174,7 @@ export default function Home() {
                 <div className="col-lg-8 offset-lg-2">
                     <h1 className="section-title text-center">Our Services</h1>
                     <div className="section-title-border mt-3"></div>
-                    <p className="section-subtitle text-muted text-center pt-4 font-secondary">through high speed
+                    <p className="section-subtitle text-muted text-center pt-4 font-secondary">Through high speed
                      broadband of more than 100mbps at an 
                     unbeatable price that addresses everyday communication challenges in homes and businesses..</p>
                 </div>
@@ -185,9 +185,9 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-diamond text-primary"></i>
                             <div className="ms-4">
-                                <h4>Digital Design</h4>
-                                <p className="pt-2 text-muted">Some quick example text to build on the card title and make
-                                    up the bulk of the cards content. Moltin gives platform.</p>
+                                <h4>VOIP/Telephone/Intercom</h4>
+                                <p className="pt-2 text-muted">Our subsriptions comes with free unlimited voice call 
+                                to all nonicoms to nonicoms users and minimal cost to other users</p>
                             </div>
                         </div>
                     </div>
@@ -197,9 +197,9 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-display2 text-primary"></i>
                             <div className="ms-4">
-                                <h4>Unlimited Colors</h4>
-                                <p className="pt-2 text-muted">Credibly brand standards compliant users without extensible
-                                    services. Anibh euismod tincidunt laoreet Ipsum passage.</p>
+                                <h4>IPTV/OTT</h4>
+                                <p className="pt-2 text-muted">With live streaming of HD/4k visual clarity. our subsribers
+                                can enjoy free unrestricted access to multiple programs.</p>
                             </div>
                         </div>
                     </div>
@@ -209,9 +209,8 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-piggy text-primary"></i>
                             <div className="ms-4">
-                                <h4>Strategy Solutions</h4>
-                                <p className="pt-2 text-muted">Separated they live in Bookmarksgrove right at the coast of
-                                    the Semantics, and large language ocean neary regelia.</p>
+                                <h4>Networking services</h4>
+                                <p className="pt-2 text-muted">Proven solutions for network transformation, tools and templates.</p>
                             </div>
                         </div>
                     </div>
@@ -223,14 +222,13 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-science text-primary"></i>
                             <div className="ms-4">
-                                <h4>Awesome Support</h4>
-                                <p className="pt-2 text-muted">It is a paradisematic country, in which roasted parts of
-                                    sentences fly into your mouth leave for the far World.</p>
+                                <h4>Optimize</h4>
+                                <p className="pt-2 text-muted">Technical expertise that helps deliver network insigths and evolve your network's capabilities.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-4 mt-4">
+                {/* <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
                             <i className="pe-7s-news-paper text-primary"></i>
@@ -241,8 +239,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="col-lg-4 mt-4">
+                </div> */}
+                {/* <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
                             <i className="pe-7s-plane text-primary"></i>
@@ -254,9 +252,9 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
-            <div className="row">
+            {/* <div className="row">
                 <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
@@ -268,8 +266,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="col-lg-4 mt-4">
+                </div> */}
+                {/* <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
                             <i className="pe-7s-tools text-primary"></i>
@@ -280,8 +278,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="col-lg-4 mt-4">
+                </div> */}
+                {/* <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
                             <i className="pe-7s-timer text-primary"></i>
@@ -292,7 +290,7 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     </section>
